@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+coverage/
+.angular/
+*.db
+*.sqlite
+*.sqlite3
+apps/web/.angular/
+apps/web/public/
+apps/api/dist/
+apps/api/uploads/
